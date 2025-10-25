@@ -1,7 +1,7 @@
 # My Open Source Journey ✨
 
 👤 **Name:** Sai Rahul Guggilam
-📅 **First Contribution:** October 2024
+📅 **First Contribution:** October 2025
 🔧 **Tools/Tech Used:** Python
 ---
 
